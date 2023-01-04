@@ -16,6 +16,8 @@ body{
    margin: 0 auto;
 }
 
+/* ============================================ SECTION PREVIEW  ======================================== */
+
 .preview {
    background: #000;
 }
@@ -32,14 +34,7 @@ body{
    margin-bottom: 156px;
 }
 
-.logo {}
 
-.logo__link {}
-
-.logo__icon {}
-
-.preview__content {
-}
 
 .preview__subtitle {
    font-size: 18px;
@@ -68,6 +63,4 @@ body{
    margin-left: 96px;
 }
 
-.preview__img {
-   
-}
+/* ======================================== SECTION ABOUT ME ============================================ */
