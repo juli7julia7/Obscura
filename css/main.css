@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:regular,500,700&display=swap');
+
+*{
+   box-sizing: border-box;
+}
+
+body{
+   font-family: 'SourceSansPro';
+   color: #fff;
+}
+
+.container{
+   max-width: 1140px;
+   width: 100%;
+   margin: 0 auto;
+}
+
+.preview {
+   background: #000;
+   display: flex;
+}
+
+.preview .container{
+   display: flex;
+}
+
+.preview__left {
+   padding: 26px 0 232px;
+}
+
+.header {
+   margin-bottom: 156px;
+}
+
+.logo {}
+
+.logo__link {}
+
+.logo__icon {}
+
+.preview__content {
+}
+
+.preview__subtitle {
+   font-size: 18px;
+      letter-spacing: 10px;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+}
+
+.preview__title {
+   font-family: 'Montserrat';
+      font-style: normal;
+      font-size: 48px;
+      line-height: 56px;
+      margin-bottom: 30px;   
+      width: 442px;
+      
+}
+
+.preview__text {
+   font-size: 15px;
+   line-height: 24px;
+   width: 448px;
+}
+
+.preview__right {
+   margin-left: 96px;
+}
+
+.preview__img {
+   
+}
