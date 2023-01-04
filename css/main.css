@@ -18,7 +18,6 @@ body{
 
 .preview {
    background: #000;
-   display: flex;
 }
 
 .preview .container{
